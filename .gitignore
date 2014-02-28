@@ -1,4 +1,6 @@
 /.redo
+/.deps
+/pkg
 *.redo?.tmp
 .DS_Store
 .cake_task_cache
